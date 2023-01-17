@@ -1,0 +1,19 @@
+{
+    "initial_message": "initial_message_a.wav ~ <full_name> ~ initial_message_b.wav ~ <policy_number> ~ initial_message_c.wav",
+    "utter_no_input": "utter_no_input_a.wav ~ <policy_number> ~ utter_no_input_b.wav",
+    "utter_no_input_again": "utter_no_input_again.wav ~ silence.wav ~ EOC",
+    "utter_bot_not_understand": "utter_bot_not_understand.wav ~ silence.wav ~ EOC",
+    "utter_wrong_number": "utter_wrong_number.wav ~ silence.wav ~ EOC",
+    "utter_busy": "utter_busy.wav ~ silence.wav ~ EOC",
+    "utter_other_lang_first": "utter_other_lang_first.wav",
+    "utter_other_lang_second": "utter_other_lang_second.wav ~ silence.wav ~ EOC",
+    "utter_affirm_it_hin": "utter_affirm_it_hin_a.wav ~ <year> ~ utter_affirm_it_hin_b.wav",
+    "utter_affirm_it_eng": "utter_affirm_it_eng_a.wav ~ <year> ~ utter_affirm_it_eng_b.wav | eng",
+    "utter_end": "utter_end.wav ~ silence.wav ~ EOC",
+    "utter_yes": "utter_yes.wav",
+    "utter_yes_repeat": "utter_yes_repeat.wav ~ silence.wav ~ EOC",
+    "utter_faq_who": "utter_faq_who.wav",
+    "utter_faq_policy": "utter_faq_policy.wav <policy_number>",
+    "short_message": "short_message.wav",
+    "utter_number_not_found": "utter_number_not_found.wav ~ silence.wav ~ EOC"
+}
